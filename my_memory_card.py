@@ -198,7 +198,7 @@ window.score = 0
 window.total = 0
 # все настроено, осталось задать вопрос и показать окно:
 next_question()
-window.resize(400, 300)
+window.resize(700, 500)
 window.show()
 window.setStyleSheet('background-color: black')
 app.exec()
